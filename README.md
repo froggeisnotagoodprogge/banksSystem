@@ -1,2 +1,10 @@
 # banksSystem
-🏦Banking system that allows users to manage banks, their customers, and customer accounts.
+### itmo second year OOP course, [task](task/task.md)
+
+### Used
+- JUnit
+- Spectre console
+- GoF patterns
+
+
+
